@@ -1,4 +1,4 @@
-description: "{{AGENT_ID}} eval suite"
+description: "smoketest eval suite"
 
 prompts:
   - label: "agent-prompt"
